@@ -1,10 +1,10 @@
-## Cardgame-War
+# Cardgame-War
 
 Automatic simulation of the card game War
 
 Uses code from my CardGames repository and pygame
 
-# Rules
+## Rules
 Both players draw a card from their deck, and the values are compared. Whichever player has the higher value gets both cards in their discard pile.
 
 If both cards are equal, War occurs, where both players draw 1 card face down, then they draw another card, and the values of that second card are compared. Whichever player has the higher value gets all the cards in their discard pile.
