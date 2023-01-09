@@ -2,7 +2,7 @@
 
 Automatic simulation of the card game War
 
-Uses code from my CardGames repository and pygame
+Uses code from my DeckOfCards repository and pygame
 
 ## Rules
 Both players draw a card from their deck, and the values are compared. Whichever player has the higher value gets both cards in their discard pile.
